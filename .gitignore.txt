@@ -1,0 +1,13 @@
+# Python files
+*.py[cod]
+__pycache__/
+*.so
+*.egg-info/
+
+# Node.js files
+node_modules/
+npm-debug.log
+
+# General
+.DS_Store
+.env
